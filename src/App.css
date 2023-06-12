@@ -1,0 +1,15 @@
+.App{
+  margin: 0px;
+  padding: 0px;
+}
+.linkDiv{
+  display: flex;
+  justify-content: space-around;
+  background-color: blue;
+  
+}
+.link {
+  text-decoration: none;
+  color: whitesmoke;
+  padding: 0.7em;
+}
